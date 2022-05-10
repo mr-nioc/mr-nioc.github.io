@@ -29,5 +29,7 @@ Evidence of the following categories are not counted:
 1. Grammatical errors of any sort.
 2. Typos of any sort.
 3. Errors or mistakes that can be easily corrected. By "easily", we mean in less than 20 words in humanly understandable English.
+4. Mediocrity does not count.
+5. Tweets do not count. Each primary document should at least have a DOI number.
 
-Once certified, they do not need to submit further evidence to keep their status for __2__ years. After 2 years, new evidence will be considered. Anyone can submit the evidence for continuing certification on their behalf. If re-certified, they will be inducted to [the hall of fame](#hall_of_fame), and no further documentation of excellence if required.
+Once certified, they do not need to submit further evidence to keep their status for __5__ years. After the initial 5 years, new evidence shall be considered. Anyone can submit new evidence for continuing certification on their behalf. If re-certified, they will be inducted to [the hall of fame](#hall_of_fame), and no further documentation is needed.
