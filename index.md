@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Certified Idiots
 
-You can use the [editor on GitHub](https://github.com/mr-nioc/mr-nioc.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Sometimes idiots publicly document their stupidity in so-called peer reviewed journals. Such publications give them pride because of the well documented certificates approved by professional idiots.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Warning!!!
 
-### Markdown
+This site is for your entertainment primarily. DO NOT take these posts too seriously and DO NOT attack anyone at a personal level. Here, we only talk about science. If you follow these rules, you may learn a thing or two, maybe.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Here, we anonymize those applicants names by a case number, for example something like CI#007, to protect their privary. Again, we DO NOT attack people here. We only evaluate their application material, and either approve or disapprove their application for certification based on our [guidelines](#guidelines).
 
-```markdown
-Syntax highlighted code block
+# Applications for Certification
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+# Pending for Approval
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+# Certified
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Guidelines
+Applicants meeting any one of the following shall be certified:
+1. A fundamental error in logic. For example, `4*4=4+4`. However, arithmatic errors, typos in the formulae DO NOT count.
+2. Unfalsifiable statements. For example, the earth has 2 moons and the second moon is make of some material that can be detected by humans.
 
-### Jekyll Themes
+Evidence of the following categories are not counted:
+1. Grammatical errors of any sort.
+2. Typos of any sort.
+3. Errors or mistakes that can be easily corrected. By "easily", we mean in less than 20 words in humanly understandable English.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mr-nioc/mr-nioc.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
