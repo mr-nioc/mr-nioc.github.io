@@ -8,13 +8,13 @@ This site is for your entertainment primarily. DO NOT take these posts too serio
 
 Here, we anonymize those applicants names by a case number, for example something like CI#007, to protect their privary. Again, we DO NOT attack people here. We only evaluate their application material, and either approve or disapprove their application for certification based on our [guidelines](#guidelines).
 
-# Applications for Certification
+### Applications for Certification
 
 
-# Pending for Approval
+### Pending for Approval
 
 
-# Certified
+### Certified
 
 
 ## Guidelines
